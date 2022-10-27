@@ -33,6 +33,6 @@ public class ExecuteUpdate01 {
         con.close();
         st.close();
         result1.close();
-
     }
+
 }
